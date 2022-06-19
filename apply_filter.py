@@ -7,7 +7,7 @@ import csv
 
 VISUALIZE_FACE_POINTS = False
 
-filter = {'path': "filters/elon.png",
+filter = {'path': "filters/dalma.png",
           'anno_path': "filters/anonymous_annotations.csv",
           'morph': True, 'animated': False, 'has_alpha': True}
 
